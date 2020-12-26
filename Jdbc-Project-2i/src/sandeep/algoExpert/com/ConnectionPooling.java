@@ -27,3 +27,13 @@ public class ConnectionPooling
 		con.close();
 	}
 }
+/*
+ * EmpNo	Ename	Esal	Eaddr
+*************************************************
+100	Sandeep	10000.0	UttarPradesh
+200	ShriKant	20000.0	AndhraPradesh
+400	YashWardhan	40000.0	Bihar
+600	Harsh	70000.0	Agra
+300	Pradeep	30000.0	Agra
+700	Rajan	50000.0	Bangalore
+ */
